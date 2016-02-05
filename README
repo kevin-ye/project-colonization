@@ -1,3 +1,7 @@
+The purpose of this project is to create a city builder/resource management game with as many gaming graphical features as possible.
+The scenario of this game is that the player is managing a space colonization program on the surface of another planet, whose main goal is to collect and utilize the resource in order to survive and extend the base of colonization.
+
+
 Build/Compile:
 [Note: some libraries are pre-built binaries against Linux, since they are not open source]
 [It is important to use ./run script to run the program, because it sets the path to dynamic libraries]
