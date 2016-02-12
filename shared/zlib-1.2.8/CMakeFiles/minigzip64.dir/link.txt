@@ -1,1 +1,0 @@
-/usr/bin/cc      CMakeFiles/minigzip64.dir/test/minigzip.o  -o minigzip64 -rdynamic libz.so.1.2.8 -Wl,-rpath,/u2/j33ye/cs488/cs488/project/shared/zlib-1.2.8 
