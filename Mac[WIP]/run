@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export DYLD_LIBRARY_PATH=./DymLib
+./CS488Project

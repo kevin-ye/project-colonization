@@ -1,0 +1,6 @@
+/u2/j33ye/cs488/cs488/project/shared/zlib-1.2.8/CMakeFiles/example.dir
+/u2/j33ye/cs488/cs488/project/shared/zlib-1.2.8/CMakeFiles/example64.dir
+/u2/j33ye/cs488/cs488/project/shared/zlib-1.2.8/CMakeFiles/minigzip.dir
+/u2/j33ye/cs488/cs488/project/shared/zlib-1.2.8/CMakeFiles/minigzip64.dir
+/u2/j33ye/cs488/cs488/project/shared/zlib-1.2.8/CMakeFiles/zlib.dir
+/u2/j33ye/cs488/cs488/project/shared/zlib-1.2.8/CMakeFiles/zlibstatic.dir

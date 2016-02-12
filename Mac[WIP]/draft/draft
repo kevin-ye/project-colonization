@@ -1,0 +1,79 @@
+objectives:
+	- texture mapping
+	- sound
+	- save/load game state
+	- game balance
+	- bump mapping
+	- picking/draging
+	- procedually generated structals (building, upgrade)
+	- dynamic surface?
+	- buildings on non-plain surface
+	- lighting (time-based, weather?, moon light, structals' lights)
+	- shadow
+	- 2D game status hub
+	- loading screen
+	- front screen
+	- event loop (event handling)
+	- science/histroy
+
+plan (~17 days):
+	- improve cs488-framework (~3d)
+		- control flows
+			- custom(game/music/IO) events
+			- pasuing
+			- limiting FPS
+		- window 
+			- resize
+			- debug panel
+		- model loading
+			- more supported formats
+	- rendering (~5d)
+		- vertex bufferring
+		- transformation bufferring
+		- observsor pattern, only change the update vertex
+		- rewrite shader
+			- multiple light source
+				- time-based light source
+				- light source on models
+			- shadow
+			- texture mapping
+			- selection highlight
+			- fog
+			- bump mapping
+				- smoothing terrian
+		- sky-box
+			- procedurally generated stars
+			- reloaded sky-box background
+		- seperated thread, UI thread/game control thread
+	- game control (~4d)
+		- map grid (observsor)
+			- pre-defined
+			- dynamically generated (slope of mountain)
+			- selection (picking)
+			- building size
+		- player control
+			- mouse
+				- camera rotation/translation
+				- picking
+				- dragging
+			- keyboard
+				- shortcut
+		- game save
+			- save file format
+			- loading/saving
+		- timer
+			- in game event
+				- random encounters
+			- sun sets/rises
+	- 2D hub (~1d)
+		- text display
+		- picking building
+		- info panel
+	- game menu (~0.5d)
+		- loading screen
+	- 3D models (~1d)
+		- procedurally gerenated models
+	- game balance/testing (~1d)
+	- animation (~1d)
+		- frame based, pre-defined
+	- more game balance/testing (~?d)
