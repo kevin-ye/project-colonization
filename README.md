@@ -1,6 +1,7 @@
 About the game
 ==============
-The purpose of this project is to create a city builder/resource management game with as many gaming graphical features as possible.
+The purpose of this project is to create a city builder/resource management game with as many gaming graphical features as possible in pure OpenGL.
+
 The scenario of this game is that the player is managing a space colonization program on the surface of another planet, whose main goal is to collect and utilize the resource in order to survive and extend the base of colonization.
 
 Features
