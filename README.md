@@ -18,6 +18,10 @@ Features
 * Async event handling
 * Save/load game state
 
+Screenshot
+==========
+![screenshot](https://github.com/kevin-ye/project-colonization/blob/master/screenshot.png "Gameplay screenshot")
+
 Note
 ====
 * Shadow mapping is not working on Mac OS
