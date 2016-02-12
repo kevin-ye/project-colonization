@@ -5273,7 +5273,7 @@ void tWindow::renderScene()
 
 	glClear(GL_DEPTH_BUFFER_BIT);
 
-	_window->getController()->getgameData()->getGrid()->render(mat4(1), this);
+	//_window->getController()->getgameData()->getGrid()->render(mat4(1), this);
 
 	glBindFramebuffer(GL_FRAMEBUFFER, 0);
 
